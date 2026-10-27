@@ -1,0 +1,66 @@
+hostname,issuer,subject,key_algorithm,key_size,signature_algorithm,not_before,not_after,days_until_expiry,status
+sbi.co.in,"CN=Entrust DV TLS Issuing RSA CA 2,O=Entrust Limited,C=CA",CN=*.sbi.co.in,RSA,2048,sha256WithRSAEncryption,2026-06-16,2026-12-31,66,OK
+hdfcbank.com,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US","CN=www.hdfc.bank.in,O=Hdfc Bank Limited,L=Mumbai,ST=Maharashtra,C=IN",RSA,2048,sha256WithRSAEncryption,2026-07-01,2027-01-15,81,OK
+icicibank.com,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB","CN=icicibank.com,O=ICICI Bank Limited,ST=Telangana,C=IN",RSA,2048,sha256WithRSAEncryption,2025-12-20,2026-12-20,55,OK
+axisbank.com,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US","CN=www.axisbank.com,O=Axis Bank Ltd,L=Ahmedabad,ST=Gujarat,C=IN",RSA,2048,sha256WithRSAEncryption,2026-07-29,2027-01-15,81,OK
+pnbindia.in,"CN=GlobalSign GCC R3 EV TLS CA 2025,O=GlobalSign nv-sa,C=BE","CN=pnbindia.in,O=Punjab National Bank,L=New Delhi,ST=Delhi,C=IN,1.3.6.1.4.1.311.60.2.1.3=IN,2.5.4.5=Government Entities,2.5.4.15=Government Entity",RSA,2048,sha256WithRSAEncryption,2026-05-21,2026-12-06,40,OK
+kotak.com,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB","CN=kotak.bank.in,O=Kotak Mahindra Bank Ltd,ST=Mahārāshtra,C=IN",RSA,2048,sha256WithRSAEncryption,2026-10-13,2027-04-29,185,OK
+indusind.com,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB","CN=indusind.com,O=IndusInd Bank Ltd,ST=Mahārāshtra,C=IN",RSA,2048,sha256WithRSAEncryption,2026-10-13,2027-04-29,185,OK
+idfcfirstbank.com,"CN=Sectigo Public Server Authentication CA EV E36,O=Sectigo Limited,C=GB","CN=www.idfcbank.com,O=IDFC First Bank Limited,ST=Maharashtra,C=IN,2.5.4.15=Private Organization,1.3.6.1.4.1.311.60.2.1.3=IN,2.5.4.5=27AADCI6523Q1Z2",EC,256,ecdsa-with-SHA256,2026-08-31,2027-03-17,142,OK
+yesbank.in,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US","CN=yesbank.in,O=YES BANK LIMITED,L=Mumbai,ST=Maharashtra,C=IN",EC,256,ecdsa-with-SHA384,2026-10-21,2027-02-08,105,OK
+bankofbaroda.in,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE","CN=*.bankofbaroda.in,O=Bank of Baroda,L=Mumbai,ST=Maharashtra,C=IN",RSA,2048,sha256WithRSAEncryption,2026-06-24,2027-01-09,74,OK
+www.india.gov.in,"CN=YR2,O=Let's Encrypt,C=US",CN=www.india.gov.in,RSA,2048,sha256WithRSAEncryption,2026-10-26,2027-01-24,89,OK
+www.incometax.gov.in,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US","CN=www.incometax.gov.in,O=Income Tax Department,L=Ghaziabad,ST=Uttar Pradesh,C=IN",EC,256,ecdsa-with-SHA384,2026-06-16,2026-12-31,66,OK
+uidai.gov.in,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB","CN=*.uidai.gov.in,O=UNIQUE IDENTIFICATION AUTHORITY OF INDIA,ST=Karnataka,C=IN",RSA,2048,sha256WithRSAEncryption,2026-10-21,2027-05-07,193,OK
+digilocker.gov.in,"CN=RapidSSL TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",CN=*.digilocker.gov.in,RSA,2048,sha256WithRSAEncryption,2026-01-19,2027-02-19,116,OK
+mygov.in,"CN=YR2,O=Let's Encrypt,C=US",CN=*.mygov.in,RSA,2048,sha256WithRSAEncryption,2026-09-30,2026-12-29,63,OK
+cowin.gov.in,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CHAIN_VERIFICATION_FAILED: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)
+passportindia.gov.in,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US","CN=*.passportindia.gov.in,O=Ministry Of External Affairs,L=New Delhi,ST=Delhi,C=IN",RSA,2048,sha256WithRSAEncryption,2026-04-29,2026-11-13,18,OK
+epfindia.gov.in,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,FAILED: timed out
+gst.gov.in,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE","CN=*.gst.gov.in,O=GOODS AND SERVICES TAX NETWORK,L=New Delhi,ST=Delhi,C=IN",RSA,2048,sha256WithRSAEncryption,2026-05-27,2026-12-12,46,OK
+rbi.org.in,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",CN=rbi.org.in,RSA,2048,sha256WithRSAEncryption,2026-10-23,2027-04-23,179,OK
+flipkart.com,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE","CN=www.flipkart.com,O=FLIPKART INTERNET PRIVATE LIMITED,L=Bengaluru,ST=Karnataka,C=IN",RSA,2048,sha256WithRSAEncryption,2026-08-27,2027-01-13,78,OK
+amazon.in,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",CN=*.cy.peg.a2z.com,RSA,2048,sha256WithRSAEncryption,2026-08-11,2027-02-24,121,OK
+myntra.com,"CN=GlobalSign ECC OV SSL CA 2018,O=GlobalSign nv-sa,C=BE","CN=*.myntra.com,O=MYNTRA DESIGNS PRIVATE LIMITED,L=Bengaluru,ST=Karnataka,C=IN",EC,256,ecdsa-with-SHA384,2025-11-24,2026-12-26,60,OK
+nykaa.com,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",CN=nykaa.com,RSA,2048,sha256WithRSAEncryption,2026-08-15,2027-02-28,125,OK
+meesho.com,"CN=WR3,O=Google Trust Services,C=US",CN=meesho.com,RSA,2048,sha256WithRSAEncryption,2026-10-13,2027-01-11,76,OK
+ajio.com,"CN=GoDaddy TLS Intermediate CA DV - R1v1,O=GoDaddy.com,C=US",CN=web.ajio.com,RSA,2048,sha256WithRSAEncryption,2026-10-14,2027-04-30,185,OK
+bigbasket.com,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",CN=*.bigbasket.com,RSA,2048,sha256WithRSAEncryption,2026-09-23,2027-04-09,165,OK
+zomato.com,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",CN=zomato.com,RSA,2048,sha256WithRSAEncryption,2026-01-27,2027-02-24,121,OK
+swiggy.com,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",CN=swiggy.in,RSA,2048,sha256WithRSAEncryption,2026-09-13,2027-03-29,154,OK
+paytm.com,"CN=GeoTrust TLS ECC CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US","CN=*.paytm.com,O=One 97 Communications Ltd,L=Noida,ST=Uttar Pradesh,C=IN",EC,256,ecdsa-with-SHA256,2026-08-24,2027-03-10,135,OK
+google.com,"CN=WE2,O=Google Trust Services,C=US",CN=*.google.com,EC,256,ecdsa-with-SHA256,2026-09-28,2026-12-21,56,OK
+microsoft.com,"CN=Microsoft TLS G2 RSA CA OCSP 04,O=Microsoft Corporation,C=US","CN=microsoft.com,O=Microsoft Corporation,L=Redmond,ST=WA,C=US",RSA,2048,sha384WithRSAEncryption,2026-10-22,2027-01-30,96,OK
+apple.com,"CN=Apple Public EV Server ECC CA 1 - G1,O=Apple Inc.,C=US","CN=apple.com,O=Apple Inc.,L=Cupertino,ST=California,C=US,2.5.4.5=C0806592,1.3.6.1.4.1.311.60.2.1.2=California,1.3.6.1.4.1.311.60.2.1.3=US,2.5.4.15=Private Organization",EC,256,ecdsa-with-SHA256,2026-09-30,2026-12-23,58,OK
+github.com,"CN=Sectigo Public Server Authentication CA DV E36,O=Sectigo Limited,C=GB",CN=github.com,EC,256,ecdsa-with-SHA256,2026-09-01,2026-11-29,34,OK
+cloudflare.com,"CN=WE1,O=Google Trust Services,C=US",CN=cloudflare.com,EC,256,ecdsa-with-SHA256,2026-09-05,2026-12-04,39,OK
+mozilla.org,"CN=WR3,O=Google Trust Services,C=US",CN=mozilla.org,RSA,2048,sha256WithRSAEncryption,2026-09-14,2026-12-13,47,OK
+wikipedia.org,"CN=YE2,O=Let's Encrypt,C=US",CN=*.wikipedia.org,EC,256,ecdsa-with-SHA384,2026-10-04,2027-01-02,68,OK
+reddit.com,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US","CN=*.reddit.com,O=Reddit\, Inc.,L=San Francisco,ST=California,C=US",RSA,2048,sha256WithRSAEncryption,2026-08-21,2027-02-16,113,OK
+linkedin.com,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US","CN=linkedin.com,O=Linkedin Corporation,L=Sunnyvale,ST=California,C=US",RSA,2048,sha256WithRSAEncryption,2026-10-22,2027-04-22,178,OK
+twitter.com,"CN=YR1,O=Let's Encrypt,C=US",CN=*.twitter.com,RSA,2048,sha256WithRSAEncryption,2026-09-28,2026-12-27,62,OK
+paypal.com,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US","CN=paypal.com,O=PayPal\, Inc.,L=San Jose,ST=California,C=US",RSA,2048,sha256WithRSAEncryption,2026-09-24,2027-04-10,166,OK
+stripe.com,"CN=DigiCert G5 TLS ECC SHA384 2021 CA1,O=DigiCert\, Inc.,C=US","CN=stripe.com,O=Stripe\, LLC,L=South San Francisco,ST=California,C=US,2.5.4.5=4675506,2.5.4.15=Private Organization,1.3.6.1.4.1.311.60.2.1.2=Delaware,1.3.6.1.4.1.311.60.2.1.3=US",EC,256,ecdsa-with-SHA384,2026-10-23,2027-05-09,195,OK
+visa.com,"CN=Cloudflare TLS Issuing ECC CA 3,O=SSL Corporation,C=US",CN=visa.com,EC,256,ecdsa-with-SHA256,2026-09-19,2027-04-06,161,OK
+mastercard.com,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US","CN=www.mastercard.com,O=MasterCard International Incorporated,L=O'Fallon,ST=Missouri,C=US",RSA,2048,sha256WithRSAEncryption,2026-09-09,2027-03-26,151,OK
+americanexpress.com,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US","CN=www.americanexpress.com,O=American Express Company,L=New York,ST=New York,C=US",RSA,2048,sha256WithRSAEncryption,2026-09-07,2027-03-24,149,OK
+mpi-inf.mpg.de,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CHAIN_VERIFICATION_FAILED: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (
+mpi-sws.org,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CHAIN_VERIFICATION_FAILED: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (
+mpi-sp.org,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CHAIN_VERIFICATION_FAILED: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (
+arxiv.org,"CN=Certainly Intermediate R1,O=Certainly,C=US",CN=arxiv.org,RSA,2048,sha256WithRSAEncryption,2026-10-24,2026-11-23,28,OK
+huggingface.co,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",CN=huggingface.co,RSA,2048,sha256WithRSAEncryption,2026-08-14,2027-02-27,124,OK
+mit.edu,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US","CN=web.mit.edu,O=Massachusetts Institute Of Technology,L=Cambridge,ST=Massachusetts,C=US",RSA,2048,sha256WithRSAEncryption,2026-04-29,2026-11-13,18,OK
+stanford.edu,"CN=InCommon RSA Server CA 2,O=Internet2,C=US","CN=stanford.edu,O=Stanford University,ST=California,C=US",RSA,2048,sha256WithRSAEncryption,2026-04-22,2026-11-06,11,OK
+ox.ac.uk,"CN=YE2,O=Let's Encrypt,C=US",CN=ox.ac.uk,EC,256,ecdsa-with-SHA384,2026-10-06,2027-01-04,69,OK
+cam.ac.uk,"CN=YR2,O=Let's Encrypt,C=US",CN=cam.ac.uk,RSA,2048,sha256WithRSAEncryption,2026-09-25,2026-12-24,58,OK
+iisc.ac.in,"CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB",CN=*.iisc.ac.in,RSA,4096,sha256WithRSAEncryption,2026-01-13,2027-02-13,110,OK
+letsencrypt.org,"CN=YE2,O=Let's Encrypt,C=US",CN=letsencrypt.org,EC,256,ecdsa-with-SHA384,2026-09-04,2026-12-03,38,OK
+digicert.com,"CN=DigiCert EV RSA CA G2,O=DigiCert Inc,C=US","CN=www.digicert.com,O=DigiCert\, Inc.,L=Lehi,ST=Utah,C=US,2.5.4.5=5299537-0142,2.5.4.15=Private Organization,1.3.6.1.4.1.311.60.2.1.2=Utah,1.3.6.1.4.1.311.60.2.1.3=US",RSA,2048,sha256WithRSAEncryption,2026-10-11,2026-11-26,31,OK
+globalsign.com,"CN=GlobalSign GCC R46 EV TLS CA 2025,O=GlobalSign nv-sa,C=BE","CN=www.globalsign.com,O=GMO GlobalSign\, Inc.,STREET=2 International Drive\, Suite 150,L=Portsmouth,ST=New Hampshire,C=US,1.3.6.1.4.1.311.60.2.1.2=New Hampshire,1.3.6.1.4.1.311.60.2.1.3=US,2.5.4.5=578611,2.5.4.15=Private Organization",RSA,2048,sha384WithRSAEncryption,2026-09-03,2027-03-21,145,OK
+sectigo.com,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB","CN=sectigo.com,O=Sectigo Limited,ST=London,C=GB",RSA,4096,sha256WithRSAEncryption,2026-09-11,2026-12-10,45,OK
+emudhra.com,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",CN=*.emudhra.com,RSA,2048,sha256WithRSAEncryption,2026-02-24,2027-03-05,130,OK
+zoho.com,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",CN=*.zoho.com,RSA,2048,sha256WithRSAEncryption,2026-09-30,2027-04-16,172,OK
+freshworks.com,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",CN=freshworks.com,RSA,2048,sha256WithRSAEncryption,2026-10-02,2027-04-17,173,OK
+razorpay.com,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",CN=razorpay.com,RSA,2048,sha256WithRSAEncryption,2026-09-06,2027-03-22,147,OK
+cred.club,"CN=GlobalSign GCC R6 AlphaSSL CA 2025,O=GlobalSign nv-sa,C=BE",CN=*.cred.club,RSA,2048,sha256WithRSAEncryption,2025-12-22,2027-01-23,88,OK
+groww.in,"CN=Starfield TLS Intermediate CA DV - R1v1,O=Starfield Technologies,C=US",CN=*.groww.in,RSA,2048,sha256WithRSAEncryption,2026-10-16,2027-03-23,147,OK
